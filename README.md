@@ -1,7 +1,7 @@
 # C Sharp - Notes Application - Database Integrated
 ✚APPLICATION SCREENSHOTS ARE ATTACHED IN "APPLICATION SCREENSHOTS FOLDER"✚<br><br>
 
-This application is my Semester Project. It is created in C# (C-Sharp) Language using Microsoft Visual Studio. The application is integrated with MySql Database.
+This application is my Semester Project. It is created in C# (C-Sharp) Language using Microsoft Visual Studio. The application is integrated with MySql Database.<br><br>
 **FUNCTIONALITIES** <br>
 ✶ Main Screen (Login or Signup)<br>
 ✶ Login - authenticates if the user exists.<br>
