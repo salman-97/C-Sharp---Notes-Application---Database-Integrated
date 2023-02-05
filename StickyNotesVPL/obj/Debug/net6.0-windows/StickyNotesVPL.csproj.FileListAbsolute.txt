@@ -1,0 +1,74 @@
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.exe
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.deps.json
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.runtimeconfig.json
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.pdb
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.csproj.AssemblyReference.cache
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.Properties.Resources.resources
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.csproj.GenerateResource.cache
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.AssemblyInfoInputs.cache
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.AssemblyInfo.cs
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.csproj.CoreCompileInputs.cache
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.csproj.CopyComplete
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\refint\StickyNotesVPL.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.pdb
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.genruntimeconfig.cache
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\ref\StickyNotesVPL.dll
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.Login.resources
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.SignUp.resources
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.MainScreen.resources
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.StartScreen.resources
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.ViewNotes.resources
+C:\Users\SALMAN\Desktop\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.Update.resources
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.exe
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.deps.json
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.runtimeconfig.json
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\StickyNotesVPL.pdb
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\comerr64.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\gssapi64.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\k5sprt64.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\krb5_64.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\krbcc64.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.csproj.AssemblyReference.cache
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.StartScreen.resources
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.Login.resources
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.MainScreen.resources
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.Properties.Resources.resources
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.SignUp.resources
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.Update.resources
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.ViewNotes.resources
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.csproj.GenerateResource.cache
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.AssemblyInfoInputs.cache
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.AssemblyInfo.cs
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.csproj.CoreCompileInputs.cache
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.csproj.CopyComplete
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\refint\StickyNotesVPL.dll
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.pdb
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\StickyNotesVPL.genruntimeconfig.cache
+D:\W O R K\University\VPL\SalmanVPLProject\StickyNotesVPL\StickyNotesVPL\obj\Debug\net6.0-windows\ref\StickyNotesVPL.dll
